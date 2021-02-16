@@ -1,0 +1,6 @@
+question 1:
+kill_the_alligator_and_run
+question 2:
+wolf3d
+question 3:
+you don't answer, just press any key to continue
